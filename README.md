@@ -8,11 +8,14 @@ Tratamento de Dados | Machine Learning | ...
 
 
 ----------------------------------------------
+
 <details>
 <summary>Machine Learning</summary>
 
 </details>
---------------------------------------------
+
+-----------------------------------------------
+
 <details>
 <summary>Tratamento de Dados</summary>
 
