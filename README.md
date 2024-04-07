@@ -3,8 +3,8 @@ Sou Raul Ramsés, resido atualmente em Itaporanga-pb, estou matriculado na UEPB,
 
 Fazer | Fazendo | Feito
 ------|---------|------
-Tratamento de Dados | Machine Learning | ...
-
+Machine Learning | Tratamento de Dados | ...
+Analise de Dados | | 
 
 ----------------------------------------------
 
