@@ -2,7 +2,6 @@ Sou Raul Ramsés, resido atualmente em Itaporanga-pb, estou matriculado na UEPB,
 
 -------------------------------------
 
-Kanban:
-    Fazer | Fazendo | Feito
-    ------|---------|------
-    Tratamento de Dados | Machine Learning | ...
+Fazer | Fazendo | Feito
+------|---------|------
+Tratamento de Dados | Machine Learning | ...

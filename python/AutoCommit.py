@@ -1,6 +1,6 @@
 import pyautogui as bot
 
-bot.PAUSE = 2
+bot.PAUSE = 1
 
 bot.hotkey('ctrl','shift','`')
 
